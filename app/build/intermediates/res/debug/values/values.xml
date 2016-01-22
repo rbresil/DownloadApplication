@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rbresil/AndroidStudioProjects/DownloadApplication/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about">About</string>
+    <string name="app_name">DownloadApplication</string>
+    <string name="defaultURL">http://www.dre.vanderbilt.edu/~schmidt/ka.png</string>
+    <string name="download">Download Image</string>
+    <string name="help">Help</string>
+    <string name="location">Enter URL:</string>
+    <string name="resetImage">Reset Image</string>
+    <string name="title_activity_download">Download</string>
+    <!-- From: file:/Users/rbresil/AndroidStudioProjects/DownloadApplication/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
